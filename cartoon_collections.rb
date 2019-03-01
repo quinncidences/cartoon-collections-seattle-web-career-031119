@@ -25,3 +25,4 @@ def find_the_cheese(array)# code an argument here
     return array.findFirst(cheese_types)
   else nil
 end
+end
