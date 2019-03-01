@@ -11,7 +11,6 @@ end
 
 def summon_captain_planet(planeteer_calls)# code an argument here
   planeteer_calls.map! {|name| name.capitalize}
-  planeteer_calls.each {|name| + puts "!"} 
   # Your code here
 end
 
